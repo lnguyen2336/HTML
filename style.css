@@ -1,0 +1,67 @@
+body{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h1{
+   border: 2px solid green;
+    color: blueviolet;
+
+}
+
+
+.test{
+    color: red;
+}
+
+#id{
+    background-color: chartreuse;
+}
+
+
+.demo{
+    font-size: 4vw;
+}
+
+
+.lastd{
+    background-color: aqua;
+    font-size: large;
+    text-align: center;
+}
+
+
+#firstp{
+    color: red;
+}
+
+.lastd{
+    background-color: rgb(255, 60, 0);
+    font-size: large;
+}
+
+.four{
+    color: brown;
+    
+}
+.parent{
+    height: 100vh;
+    border: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.child1{
+    width: 200px;
+    height: 200px;
+    background: yellow
+}
+.child2{
+    width: 200px;
+    height: 200px;
+    background: green;
+}
+.child3{
+    width: 200px;
+    height: 200px;
+   background: red;
+}
